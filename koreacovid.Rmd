@@ -88,3 +88,4 @@ Fisher's exact Test for count data shows that males are 2.3 times more likely co
 
 ## Conclusions
 
+Our null hypothesis stated that COVID deaths were related to sex. First we added a barchart to show the amount of deaths per 100 people. From there it shows that 60% of deaths out of 100 were males and females were 40%. Then we ran the numerical result in order to have a more precise number of COVID related deaths between males and females. This showed us that 64 males died due to COVID compared to 36 females. This also meant that we could state that males were more likely to die at a higher rate due to COVID compared to females. 
